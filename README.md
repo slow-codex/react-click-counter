@@ -1,5 +1,5 @@
 
-# Deploying a React App* to GitHub Pages
+# Deploying My First React App* to GitHub Pages
 
 \* created using `create-react-app`
 
